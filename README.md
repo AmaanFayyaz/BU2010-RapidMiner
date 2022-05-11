@@ -33,11 +33,11 @@ You have to work on this task individually.
 
 How many people did travel in First class? 
 
-**Answer:** Replace this text with your answer.
+**Answer:** 323
 
 And how many people did not survive the Titanic accident?
 
-**Answer:** Replace this text with your answer.
+**Answer:** 809
 
 #### Task 2 (Titanic)
 
@@ -56,12 +56,12 @@ And how many people did not survive the Titanic accident?
 
 What is the highest fare paid for a woman?
 
-**Answer:** Replace this text with your answer.
+**Answer:** 512.329
 
 Change the process to find out what that highest second class fare was (independent of gender). 
 What is the highest fare paid for a second class ticket?
 
-**Answer:** Replace this text with your answer.
+**Answer:** 73.500
 
 #### Task 3 (Products and Transactions)
 
@@ -77,11 +77,11 @@ What is the highest fare paid for a second class ticket?
 
 Which product has been bought by 22 different customers?
 
-**Answer:** Replace this text with your answer.
+**Answer:** Athsat
 
 Which product has been bought by 4 different customers?
 
-**Answer:** Replace this text with your answer.
+**Answer:** krayoxx
 
 
 #### Task 4 (Products and Transactions)
@@ -91,15 +91,15 @@ Which product has been bought by 4 different customers?
 
 What is the name of the most expensive product and how much does it cost?
 
-**Answer:** Replace this text with your answer.
+**Answer:** ambrosia 495.990
 
 What is the name of the cheapest product and how much does it cost?
 
-**Answer:** Replace this text with your answer.
+**Answer:** zydrate 4.940
 
 Find out what the customer with Customer ID 50 bought. What are the names of the products and how many of each did this customer buy?
 
-**Answer:** Replace this text with your answer.
+**Answer:**  Med-X 6
 
 
 #### Task 5 (Height)
@@ -107,6 +107,7 @@ Find out what the customer with Customer ID 50 bought. What are the names of the
 * When you complete the import, store the data in your Local Repository.
 * Create a suitable process that allows you to visualise the data as a box plot, grouped by gender. 
 * Export the chart as a PNG and save it in your repository (You should see the menu to export the chart by clicking on the three lines at the top right of the box plot). 
+
 
 
 **Commit early, commit often** - that way you can go back if you have made a mistake and I can see all the work you have done. It doesn't matter if your early commits contain mistakes.  
